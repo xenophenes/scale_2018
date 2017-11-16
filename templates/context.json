@@ -1,0 +1,291 @@
+{
+    "linkbase": "https://pgdayaustin2017.postgresql.us/",
+    "mediabase": "https://pgdayaustin2017.postgresql.us/",
+
+    "conference": "PGDay SCALE 2018",
+
+    "partner": [
+      {
+        "name": "fibercove",
+        "logo": "fibercove.svg",
+        "largelogo": "fibercove.svg",
+        "badgelogo": "fibercove.svg",
+        "link": "https://www.fibercove.com/en/",
+        "intro": "fibercove"
+      }
+    ],
+
+    "supporter": [
+      {
+        "name": "Enterprise DB",
+        "logo": "edb_logo1.png",
+        "largelogo": "edb_logo1.png",
+        "badgelogo": "edb_logo1.png",
+        "link": "https://www.edbpostgres.com/",
+        "intro": "EnterpriseDB® (EDB™), the database platform company for digital business, delivers the premier open source-based data platform for new applications, cloud re-platforming, application modernization, and legacy migration. EnterpriseDB integrates with enterprise technologies and infrastructures for hybrid cloud management, data integration, and data warehousing. Our customers benefit from the most reliable, high-performing, flexible, open, and cost-effective data management platform available. EnterpriseDB is based in Bedford, Massachusetts with offices around the globe. For more information, visit www.EDBPostgres.com."
+      }
+    ],
+
+	"blogposts": [
+	{
+		"title": "Blog Entry 1",
+		"sponsorname": "PostgresOpen",
+		"posttime": "2017-01-01",
+		"content": "the content"
+	}
+	],
+
+    "tracks": [
+    {
+      "color": "#859900",
+      "incfp": true,
+      "trackname": "PostgresOpen 2017",
+      "sortkey": 100
+    },
+    {
+      "color": "#FFFFEE",
+      "incfp": false,
+      "trackname": "Breaks",
+      "sortkey": 120
+    }
+    ],
+
+    "days": [
+    {
+      "schedule_height": 872.0,
+      "schedule_width": 600,
+      "day": "2017-03-21",
+      "rooms": [
+        {
+          "heightpos": 28,
+          "name": "Drottningholm",
+          "sessions": [
+            {
+              "leftpos": 0,
+              "heightpos": 43.0,
+              "length": 30.0,
+              "room": null,
+              "title": "Registration",
+              "track": {
+                "color": "#FFFFEE",
+                "incfp": false,
+                "trackname": "Breaks",
+                "sortkey": 120
+              },
+              "cross_schedule": true,
+              "timeslot": "08:30 - 09:00",
+              "widthpos": 598,
+              "toppos": 30.0
+            },
+            {
+              "leftpos": 0,
+              "heightpos": 20.5,
+              "length": 15.0,
+              "room": null,
+              "title": "Welcome and Opening",
+              "track": {
+                "color": "#FFFFEE",
+                "incfp": false,
+                "trackname": "Breaks",
+                "sortkey": 120
+              },
+              "cross_schedule": true,
+              "timeslot": "09:00 - 09:15",
+              "widthpos": 598,
+              "toppos": 75.0
+            },
+            {
+              "track": {
+                "color": "#859900",
+                "incfp": true,
+                "trackname": "PostgresOpen 2017",
+                "sortkey": 100
+              },
+              "id": 1458,
+              "toppos": 97.5,
+              "heightpos": 75.0,
+              "speakers": [
+                {
+                  "lastmodified": "2016-12-22T08:43:39.872159",
+                  "fullname": "Speaker 1",
+                  "company": "Company 1",
+                  "abstract": "Speaker Abstract Number 1.",
+                  "twittername": ""
+                }
+              ],
+              "room": {
+                "roomname": "Room 1",
+                "sortkey": 100
+              },
+              "title": "Talk Number 1",
+              "leftpos": 0,
+              "length": 50.0,
+              "timeslot": "09:15 - 10:05",
+              "widthpos": 598
+            },
+            {
+              "leftpos": 0,
+              "heightpos": 35.5,
+              "length": 25.0,
+              "room": null,
+              "title": "Coffee",
+              "track": {
+                "color": "#FFFFEE",
+                "incfp": false,
+                "trackname": "Breaks",
+                "sortkey": 120
+              },
+              "cross_schedule": true,
+              "timeslot": "10:05 - 10:30",
+              "widthpos": 598,
+              "toppos": 172.5
+            },
+            {
+              "track": {
+                "color": "#859900",
+                "incfp": true,
+                "trackname": "PostgresOpen 2017",
+                "sortkey": 100
+              },
+              "id": 1501,
+              "toppos": 210.0,
+              "heightpos": 75.0,
+              "speakers": [
+                {
+                  "lastmodified": "2015-08-17T18:04:24.018834",
+                  "fullname": "Speaker 2",
+                  "company": "Company 2",
+                  "abstract": "Speaker Abstract Number 2.",
+                  "twittername": ""
+                }
+              ],
+              "room": {
+                "roomname": "Room 1",
+                "sortkey": 100
+              },
+              "title": "Talk Number 2",
+              "leftpos": 0,
+              "length": 50.0,
+              "timeslot": "10:30 - 11:20",
+              "widthpos": 598
+            }
+          ],
+          "leftpos": 0,
+          "widthpos": 598,
+          "id": 70
+        }
+      ],
+      "sessions": [
+        {
+          "leftpos": 0,
+          "heightpos": 43.0,
+          "length": 30.0,
+          "room": null,
+          "title": "Registration",
+          "track": {
+            "color": "#FFFFEE",
+            "incfp": false,
+            "trackname": "Breaks",
+            "sortkey": 120
+          },
+          "cross_schedule": true,
+          "timeslot": "08:30 - 09:00",
+          "widthpos": 598,
+          "toppos": 30.0
+        },
+        {
+          "leftpos": 0,
+          "heightpos": 20.5,
+          "length": 15.0,
+          "room": null,
+          "title": "Welcome and Opening",
+          "track": {
+            "color": "#FFFFEE",
+            "incfp": false,
+            "trackname": "Breaks",
+            "sortkey": 120
+          },
+          "cross_schedule": true,
+          "timeslot": "09:00 - 09:15",
+          "widthpos": 598,
+          "toppos": 75.0
+        },
+        {
+          "track": {
+            "color": "#859900",
+            "incfp": true,
+            "trackname": "PostgresOpen 2017",
+            "sortkey": 100
+          },
+          "id": 1458,
+          "toppos": 97.5,
+          "heightpos": 75.0,
+          "speakers": [
+            {
+              "lastmodified": "2016-12-22T08:43:39.872159",
+              "fullname": "Speaker 1",
+              "company": "Company 1",
+              "abstract": "Speaker Abstract Number 1.",
+              "twittername": ""
+            }
+          ],
+          "room": {
+            "roomname": "Room 1",
+            "sortkey": 100
+          },
+          "title": "Talk Number 1",
+          "leftpos": 0,
+          "length": 50.0,
+          "timeslot": "09:15 - 10:05",
+          "widthpos": 598
+        },
+        {
+          "leftpos": 0,
+          "heightpos": 35.5,
+          "length": 25.0,
+          "room": null,
+          "title": "Coffee",
+          "track": {
+            "color": "#FFFFEE",
+            "incfp": false,
+            "trackname": "Breaks",
+            "sortkey": 120
+          },
+          "cross_schedule": true,
+          "timeslot": "10:05 - 10:30",
+          "widthpos": 598,
+          "toppos": 172.5
+        },
+        {
+          "track": {
+            "color": "#859900",
+            "incfp": true,
+            "trackname": "PostgresOpen 2017",
+            "sortkey": 100
+          },
+          "id": 1501,
+          "toppos": 210.0,
+          "heightpos": 75.0,
+          "speakers": [
+            {
+              "lastmodified": "2015-08-17T18:04:24.018834",
+              "fullname": "Speaker 2",
+              "company": "Company 2",
+              "abstract": "Speaker Abstract Number 2.",
+              "twittername": ""
+            }
+          ],
+          "room": {
+            "roomname": "Room 1",
+            "sortkey": 100
+          },
+          "title": "Talk Number 2",
+          "leftpos": 0,
+          "length": 50.0,
+          "timeslot": "10:30 - 11:20",
+          "widthpos": 598
+        }
+      ]
+    }
+  ]
+}
